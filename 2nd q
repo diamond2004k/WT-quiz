@@ -1,0 +1,26 @@
+<html>
+
+<head>
+
+<title>CSS Bullets</title>
+
+
+</head>
+
+<body>
+
+<h3>Engineering Colleges</h3>
+
+<ol>
+
+<li style="upper-roman"> RVU</li>
+
+<li style="upper-alpha"> BMSCE </li>
+
+<li style="decimal"> PESU</li>
+
+</ol>
+
+</body>
+
+</html>
